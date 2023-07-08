@@ -76,3 +76,5 @@ It's not possible to read (`/get`) or write (`/set`) this value.
 The minimal value is `0` and the maximum value is `255`.
 The unit of this value is `lqi`.
 
+## Tips
+To set time zone, put the value "3600" (example for GMT+1 zone : +3600 seconds = +1 hour) in the endpoint 1, functionnality "(10) genTime" and attribut "(2) timeZone", then click on "Write" button. After about 24 hours, your device will correctly indicate time of your locality.
