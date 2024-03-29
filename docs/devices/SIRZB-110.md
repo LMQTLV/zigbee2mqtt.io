@@ -24,7 +24,7 @@ pageClass: device-page
 
 <!-- Notes BEGIN: You can edit here. Add "## Notes" headline if not already present. -->
 ## Notes
-
+Only functional for firmware 1.7.1 (whatever the hardware version). Doesn't work with firmware 1.9.3.
 
 ### Warning usage
 
